@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/antdsc/klure.git/static/css/main.24754c98.css",
+    "main.js": "/antdsc/klure.git/static/js/main.1d7c79a0.js",
+    "static/media/fanbg.webp": "/antdsc/klure.git/static/media/fanbg.eb7c4774e758e6bdbc8c.webp",
+    "static/media/starsbg2.webp": "/antdsc/klure.git/static/media/starsbg2.b681e712fd8b81136262.webp",
+    "index.html": "/antdsc/klure.git/index.html",
+    "static/media/whatsapp.svg": "/antdsc/klure.git/static/media/whatsapp.a5b7019dda60358716061674ac9c42b4.svg",
+    "static/media/telegram.svg": "/antdsc/klure.git/static/media/telegram.aaffbe1222f6cf927bd6f9dea74784b3.svg",
+    "static/media/twitter.svg": "/antdsc/klure.git/static/media/twitter.a24e975c9f26cf2cfa88cf838266778d.svg",
+    "static/media/facebook.svg": "/antdsc/klure.git/static/media/facebook.08ed0d64ea14d23ab0528a12be12499c.svg",
+    "static/media/coinsmall.webp": "/antdsc/klure.git/static/media/coinsmall.31d6cfe0d16ae931b73c.webp",
+    "main.24754c98.css.map": "/antdsc/klure.git/static/css/main.24754c98.css.map",
+    "main.1d7c79a0.js.map": "/antdsc/klure.git/static/js/main.1d7c79a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24754c98.css",
+    "static/js/main.1d7c79a0.js"
+  ]
+}
